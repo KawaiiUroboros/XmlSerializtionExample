@@ -7,7 +7,10 @@ using System.Xml.Serialization;
 
 namespace Class
 {
-    
+    //REALLY IMPORTANT: these [things] are called attributes, they say to your programm what to do with things(classes) under them
+    //for example: XmlInclude says what  additional type program need to serialize
+    // without them programm will try to serialize only Student class and when it will come over Contest or Control object
+    // porgram gonna stop  then gg easy game for you
     [XmlInclude(typeof(ControlWork))]
     [XmlInclude(typeof(Contest))]
     public class Student
