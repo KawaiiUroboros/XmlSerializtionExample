@@ -1,0 +1,6 @@
+C:\Users\Uroboros\source\repos\varDO22052020\Class\bin\Debug\Class.dll
+C:\Users\Uroboros\source\repos\varDO22052020\Class\bin\Debug\Class.pdb
+C:\Users\Uroboros\source\repos\varDO22052020\Class\obj\Debug\Class.csprojAssemblyReference.cache
+C:\Users\Uroboros\source\repos\varDO22052020\Class\obj\Debug\Class.csproj.CoreCompileInputs.cache
+C:\Users\Uroboros\source\repos\varDO22052020\Class\obj\Debug\Class.dll
+C:\Users\Uroboros\source\repos\varDO22052020\Class\obj\Debug\Class.pdb

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Цсфумяэъ</Name>
+  <SurName>Ьввъкэяшдэ</SurName>
+  <Works>
+    <ControlElement xsi:type="ControlWork">
+      <Weight>23</Weight>
+      <Name>Ясньсвяшщшдм</Name>
+      <Value>34</Value>
+    </ControlElement>
+    <ControlElement xsi:type="ControlWork">
+      <Weight>12</Weight>
+      <Name>Бс</Name>
+      <Value>5</Value>
+    </ControlElement>
+    <ControlElement xsi:type="Contest">
+      <Weight>48</Weight>
+      <Name>Йясоэпжбихфъ</Name>
+      <TasksNumber>8</TasksNumber>
+    </ControlElement>
+    <ControlElement xsi:type="ControlWork">
+      <Weight>55</Weight>
+      <Name>Кйбжсяубщфкг</Name>
+      <Value>13</Value>
+    </ControlElement>
+    <ControlElement xsi:type="ControlWork">
+      <Weight>77</Weight>
+      <Name>Ттрсъкс</Name>
+      <Value>10</Value>
+    </ControlElement>
+  </Works>
+</Student>

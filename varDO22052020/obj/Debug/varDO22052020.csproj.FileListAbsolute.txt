@@ -1,0 +1,10 @@
+C:\Users\Uroboros\source\repos\varDO22052020\varDO22052020\bin\Debug\varDO22052020.exe.config
+C:\Users\Uroboros\source\repos\varDO22052020\varDO22052020\bin\Debug\varDO22052020.exe
+C:\Users\Uroboros\source\repos\varDO22052020\varDO22052020\bin\Debug\varDO22052020.pdb
+C:\Users\Uroboros\source\repos\varDO22052020\varDO22052020\bin\Debug\Class.dll
+C:\Users\Uroboros\source\repos\varDO22052020\varDO22052020\bin\Debug\Class.pdb
+C:\Users\Uroboros\source\repos\varDO22052020\varDO22052020\obj\Debug\varDO22052020.csprojAssemblyReference.cache
+C:\Users\Uroboros\source\repos\varDO22052020\varDO22052020\obj\Debug\varDO22052020.csproj.CoreCompileInputs.cache
+C:\Users\Uroboros\source\repos\varDO22052020\varDO22052020\obj\Debug\varDO22052020.csproj.CopyComplete
+C:\Users\Uroboros\source\repos\varDO22052020\varDO22052020\obj\Debug\varDO22052020.exe
+C:\Users\Uroboros\source\repos\varDO22052020\varDO22052020\obj\Debug\varDO22052020.pdb
